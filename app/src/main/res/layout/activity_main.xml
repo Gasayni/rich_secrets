@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorLable">
+
+        <Button
+            android:id="@+id/btn_theory"
+            android:layout_width="wrap_content"
+            android:textColor="@color/colorWhite"
+            android:layout_height="wrap_content"
+            android:background="@color/colorLable"
+            android:text="Теория" />
+
+        <Button
+            android:id="@+id/btn_practic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorWhite"
+            android:background="@color/colorLable"
+            android:text="Практика" />
+
+        <Button
+            android:id="@+id/btn_sovet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorWhite"
+            android:background="@color/colorLable"
+            android:text="Совет дня" />
+    </TableRow>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/FragContain"/>
+
+</TableLayout>

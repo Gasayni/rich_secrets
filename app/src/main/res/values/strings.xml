@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Секреты богатства</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Theory_blank_fragment">Theory blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Practic_blank_fragment">Practic_blank_fragment</string>
+    <string name="Sovet_blank_fragment">Sovet_blank_fragment</string>
+    <string name="btn_10_important">Десять важных правил успешных людей</string>
+    <string name="btn_habbit_rich">Привычки богатых людей</string>
+    <string name="btn_advice_Success">Советы успешных людей</string>
+    <string name="btn_advice_John">Советы Джона Рокфеллера</string>
+    <string name="btn_11_secrets">11 СЕКРЕТОВ УСПЕХА</string>
+    <string name="btn_way_earn">Способы заработать деньги</string>
+    <string name="btn_10_ways">10 способов разбогатеть</string>
+    <string name="btn_10_ideas">10 идей, которые принесли <более>       </более> 1 000 000 000$</string>
+    <string name="btn_money_primets">Денежные приметы</string>
+    <string name="btn_how_become_rich">Как стать богатым</string>
+    <string name="textview_line">TextView_line</string>
+    <string name="btn_laws_success">Законы успеха</string>
+    <string name="btn_can_i_make">Что я могу сделать уже сейчас?</string>
+    <string name="btn_how_create_ideas">Как создавать идеи?</string>
+    <string name="btn_where_to_begin">С чего начать?</string>
+    <string name="btn_way_finances_manage">Правила управления финансами</string>
+    <string name="btn_rich_principle">Принципы богатства</string>
+    <string name="btn_7_skills">7 наввыков высокоэффективных людей</string>
+    <string name="btn_questions_introspection">Вопросы для самоанализа</string>
+    <string name="btn_6_steps">Шесть шагов к финансовой свободе</string>
+    <string name="btn_9_important_principles">9 важных навыков, о которых мы все забываем</string>
+    <string name="btn_7_main_rules">7 главных правил делового разговора</string>
+</resources>

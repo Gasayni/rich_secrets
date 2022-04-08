@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragTheory">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="match_parent" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/btn_10_important"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+
+                    android:text="@string/btn_10_important" />
+
+                <Button
+                    android:id="@+id/btn_habit_rich"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_habbit_rich" />
+
+                <Button
+                    android:id="@+id/btn_advice_Success"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_advice_Success" />
+
+                <Button
+                    android:id="@+id/btn_advice_John"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:text="@string/btn_advice_John" />
+
+                <Button
+                    android:id="@+id/btn_11_secrets"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_11_secrets" />
+
+                <Button
+                    android:id="@+id/btn_way_earn"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_way_earn" />
+
+                <Button
+                    android:id="@+id/btn_10_ways"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_10_ways" />
+
+                <Button
+                    android:id="@+id/btn_10_ideas"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_10_ideas" />
+
+                <Button
+                    android:id="@+id/btn_money_primets"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_money_primets" />
+
+                <Button
+                    android:id="@+id/btn_how_become_rich"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_how_become_rich" />
+
+            </LinearLayout>
+        </ScrollView>
+
+    </TableRow>
+
+</TableLayout>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Frag_practic">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="match_parent" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/btn_laws_success"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_laws_success" />
+
+                <Button
+                    android:id="@+id/btn_can_i_make"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_can_i_make" />
+
+                <Button
+                    android:id="@+id/btn_how_create_ideas"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_how_create_ideas" />
+
+                <Button
+                    android:id="@+id/btn_where_to_begin"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:text="@string/btn_where_to_begin" />
+
+                <Button
+                    android:id="@+id/btn_way_finances_manage"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_way_finances_manage" />
+
+                <Button
+                    android:id="@+id/btn_rich_principle"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_rich_principle" />
+
+                <Button
+                    android:id="@+id/btn_7_skills"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_7_skills" />
+
+                <Button
+                    android:id="@+id/btn_questions_introspection"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_questions_introspection" />
+
+                <Button
+                    android:id="@+id/btn_6_steps"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_6_steps" />
+
+                <Button
+                    android:id="@+id/btn_9_important_principles"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_9_important_principles" />
+
+                <Button
+                    android:id="@+id/btn_7_main_rules"
+                    android:background="@drawable/btn_corner"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:text="@string/btn_7_main_rules" />
+
+            </LinearLayout>
+        </ScrollView>
+
+    </TableRow>
+
+</TableLayout>

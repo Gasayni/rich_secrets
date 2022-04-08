@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gas_test_as_0001">
+<!--    android:roundIcon="@mipmap/ic_launcher_round"-->
+    <!---->
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_foreground"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:supportsRtl="true">
+
+
+
+        <activity android:name=".Activity_7_main_rules">
+            <intent-filter>
+                <action android:name="7_main_rules" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_9_important_principles">
+            <intent-filter>
+                <action android:name="9_important_principles" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_6_steps">
+            <intent-filter>
+                <action android:name="6_steps" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_questions_introspection">
+            <intent-filter>
+                <action android:name="questions_introspection" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_7_skills">
+            <intent-filter>
+                <action android:name="7_skills" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_rich_principle">
+            <intent-filter>
+                <action android:name="rich_principle" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_way_finances_manage">
+            <intent-filter>
+                <action android:name="way_finances_manage" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_where_to_begin">
+            <intent-filter>
+                <action android:name="where_to_begin" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_how_create_ideas">
+            <intent-filter>
+                <action android:name="how_create_ideas" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_can_i_make">
+            <intent-filter>
+                <action android:name="can_i_make" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_laws_success">
+            <intent-filter>
+                <action android:name="laws_success" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_how_become_rich">
+            <intent-filter>
+                <action android:name="how_become_rich" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_money_primets">
+            <intent-filter>
+                <action android:name="money_primets" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_10_ideas">
+            <intent-filter>
+                <action android:name="10_ideas" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_10_ways">
+            <intent-filter>
+                <action android:name="10_ways" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_way_earn">
+            <intent-filter>
+                <action android:name="way_earn" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_11_secrets">
+            <intent-filter>
+                <action android:name="11_secrets" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_advice_John">
+            <intent-filter>
+                <action android:name="advice_John" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_advice_Success">
+            <intent-filter>
+                <action android:name="advice_Success" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_habit_rich">
+            <intent-filter>
+                <action android:name="habit_rich" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity_10_important">
+            <intent-filter>
+                <action android:name="10_important" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
